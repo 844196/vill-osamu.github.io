@@ -47,8 +47,6 @@ title: test
 - 作りかけで、おそらく途中で完成させるのを諦めたであろう建物
 
 ### 新規入村者の受け入れ体制について
-<center><blockquote class="twitter-tweet" lang="ja"><p>人の枠で春厨を見かける　家も気をつけなきゃな</p>&mdash; Osamu_MORIMOTO (@2525morimoto) <a href="https://twitter.com/2525morimoto/statuses/438004746280910848">2014, 2月 24</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
 他所の放送で春厨を見かけたらしく、3月からの受け入れ開始は見送り、4月の春休みが終わった頃から行いたいとのこと。どちらにしても、研修が始まるぽいし忙しそうだから仕方ないね（レ）。
 
