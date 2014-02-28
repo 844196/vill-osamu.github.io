@@ -1,15 +1,6 @@
-<html lang="ja">
-    <head>
-        <meta charset="utf-8">
-        <link rel="stylesheet" href="css/styles.css">
-        <title>ホラ、見ろよ見ろよ。</title>
-        <link rel="stylesheet" href="css/styles.css">
-        <style>#wrapper { max-width:700px; margin:0 auto }</style>
-    </head>
-
-    <body>
-        <div id="wrapper">
-            {{ content }}
-        </div>
-    </body>
-</html>
+---
+theme :
+  name : twitter
+---
+{% include JB/setup %}
+{% include themes/twitter/default.html %}
