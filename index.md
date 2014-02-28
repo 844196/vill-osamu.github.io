@@ -69,7 +69,7 @@ title: test
     * wikiの作成  
 4. 雪まつりを開催する  
 
----
+<hr>
 
 <center><a href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja"><img src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"></a>
 この文書は<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja">クリエイティブ・コモンズ 表示 - 継承 3.0 非移植 ライセンスの下で提供されています。</a></center>
