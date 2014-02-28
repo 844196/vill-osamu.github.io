@@ -1,11 +1,3 @@
-<!DOCTYPE html>  
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>2014-02-27_バージョンアップについて</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
 body {
   color: #5a5a5a;
   font-family: 'Koruri', 'Helvetica', 'Arial', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
@@ -22,7 +14,9 @@ body > *:last-child {
   margin-bottom: 0 !important; }
 
 a {
-  color: #4183C4; }
+  color: #4183C4;
+  text-decoration: none;
+}
 a.absent {
   color: #cc0000; }
 a.anchor {
@@ -93,8 +87,8 @@ p, blockquote, ul, ol, dl, li, table, pre {
 
 hr {
   display: block;
-  -webkit-margin-before: 0.5em;
-  -webkit-margin-after: 0.5em;
+  -webkit-margin-before: 1.5em;
+  -webkit-margin-after: 1.5em;
   -webkit-margin-start: auto;
   -webkit-margin-end: auto;
   border-top-style: inset;
@@ -319,7 +313,7 @@ h2{
 }
 
 h3{
-    margin:1em 0 0.3em 0;
+    margin:1.5em 0 0.3em 0;
     padding:2px 8px;
     border-width:0 0 0 4px;
     border-color:#2e9af8;
@@ -508,111 +502,3 @@ alert.caution:before {
     font-weight: bold;
     content: "注意！ ";
 }
-
-</style>
-<style>#wrapper { max-width:700px; margin:0 auto }</style>
-</head>
-<body class="inverted poetry">
-  <div id="wrapper">
-      <h1 id="">おさむ村 サーバーバージョンアップについて</h1>
-
-<p>作成日時 : 2014&#8211;02&#8211;27 23:30<br/>
-更新日時 : 2014&#8211;02&#8211;28 00:05
-<a href="http://www.flickr.com/photos/s083027/12815247423/"><img src="https://farm3.staticflickr.com/2847/12815247423_eeeac4f60c_c.jpg" alt="" /></a></p>
-
-<h2 id="">目次</h2>
-
-<ul>
-<li><a href="#section0">このページはなに？</a></li>
-<li><a href="#section1">決まってること・決まってないこと</a></li>
-<li><a href="#section2">2014&#8211;02&#8211;27 Skype打ち合わせ</a></li>
-<li><a href="#section3">2014&#8211;02&#8211;10 放送打ち合わせ</a></li>
-</ul>
-
-<h2 id="anamesection0a"><a name="section0">このページはなに？</a></h2>
-
-<p>なんとなく固定ページがあったら<a href="http://dic.nicovideo.jp/a/それはとっても嬉しいなって">それはとっても嬉しいなって</a>思って作りました。<br/>
-管理者は<a href="http://twitter.com/84____">はちよん</a>です。</p>
-
-<h2 id="anamesection1a"><a name="section1">決まってること・決まってないこと</a></h2>
-
-<h3 id="">決まってること</h3>
-
-<ol>
-<li><code>1.7.2</code>から新しい地形がたくさん追加されるので、<strong>不要な建物・地形の削除を実施</strong>
-
-<ul>
-<li>しばらくログインしてなくて、未完成な建物を撤去（コピーして保存）</li>
-<li>削除する建物・地形は村長が判断</li>
-</ul></li>
-<li><strong><code>1.6.4</code>から<code>1.7.2</code>へアップデート</strong></li>
-</ol>
-
-<h3 id="">決まってないこと</h3>
-
-<ul>
-<li>新規入村者の受け入れ体制を整える
-
-<ul>
-<li>サーバールールの改定、もしくは条項の追加</li>
-<li>wiki、はてなスペース、その他情報発信場所の確保</li>
-</ul></li>
-</ul>
-
-<p><br></p>
-
-<hr />
-
-<h2 id="anamesection22014-02-27skypea"><a name="section2">2014&#8211;02&#8211;27 Skype打ち合わせ</a></h2>
-
-<h3 id="">移行する範囲を仮決定</h3>
-
-<p><a href="http://www.flickr.com/photos/s083027/12815061544/"><img src="https://c2.staticflickr.com/4/3737/12815061544_1e9b5d4c85_c.jpg" alt="" /></a><br/>
-リスポーンからゾンさんが建てた天空TTまでを半径にした円の内側を残して、↑の赤い円の外側を原則削除する予定。</p>
-
-<p>ただ、赤い円の範囲内であっても以下の建物・地形は削除される場合があります。</p>
-
-<ul>
-<li>誰も建物を立てていない場所</li>
-<li>作りかけで、おそらく途中で完成させるのを諦めたであろう建物</li>
-</ul>
-
-<p><br></p>
-
-<h3 id="">新規入村者の受け入れ体制について</h3>
-
-<center><blockquote class="twitter-tweet" lang="ja"><p>人の枠で春厨を見かける　家も気をつけなきゃな</p>&mdash; Osamu_MORIMOTO (@2525morimoto) <a href="https://twitter.com/2525morimoto/statuses/438004746280910848">2014, 2月 24</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center>
-
-<p>他所の放送で春厨を見かけたらしく、3月からの受け入れ開始は見送り、4月の春休みが終わった頃から行いたいとのこと。どちらにしても、研修が始まるぽいし忙しそうだから仕方ないね（レ）。</p>
-
-<h2 id="anamesection32014-02-10a"><a name="section3">2014&#8211;02&#8211;10 放送打ち合わせ</a></h2>
-
-<p>詳しくは元の放送タイムシフトを御覧ください。</p>
-
-<ul>
-<li><strong>1枠目</strong>―<a href="http://live.nicovideo.jp/watch/lv168894159">http://live.nicovideo.jp/watch/lv168894159</a></li>
-<li><strong>2枠目</strong>―<a href="http://live.nicovideo.jp/watch/lv168899892">http://live.nicovideo.jp/watch/lv168899892</a></li>
-</ul>
-
-<h3 id="">村長が2月中にやること</h3>
-
-<ol>
-<li>建造物の立ってない場所をチャンクごと削除
-
-<ul>
-<li>しばらくログインしてなくて、未完成な建物を撤去（コピーして保存）</li>
-<li>村長が判断</li>
-</ul></li>
-<li>バージョンを<code>1.7.2</code>に上げる</li>
-<li>サーバーのアピール
-
-<ul>
-<li>PR動画</li>
-<li>wikiの作成</li>
-</ul></li>
-<li>雪まつりを開催する</li>
-</ol>
-    </div>
-</body>
-</html>
