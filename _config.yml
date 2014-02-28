@@ -23,3 +23,9 @@ JB :
   tags_path : /tags.html
   atom_path : /atom.xml
   rss_path : /rss.xml
+
+
+  comments :
+    provider : disqus
+    disqus :
+      short_name : slLog
