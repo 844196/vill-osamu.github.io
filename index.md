@@ -14,7 +14,7 @@ title:
 大したことは　してないけどね<br>
 </p>
 </font>
-<a class="btn btn-primary btn-large" href="http://ch.nicovideo.jp/osamu">サーバー管理者のブロマガを読む</a>
+<a class="btn btn-primary btn-large" href="/2014/02/09/新規向け概要/">さらに詳しく</a>
 </div>
 
 
