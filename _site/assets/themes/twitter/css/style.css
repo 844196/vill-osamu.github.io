@@ -1,15 +1,28 @@
 /* Custom container */
+/*
 .container-narrow {
   margin: 0 auto;
   max-width: 700px; }
 
 .container-narrow > hr {
   margin: 30px 0; }
+*/
 
 .navbar .nav {
   float: right; }
 
 /* posts index */
+
+.post {
+  margin: 0 auto;
+  max-width: 700px;
+}
+
+.page {
+  margin: 0 auto;
+  max-width: 900px;
+}
+
 .post > h3.title {
   position: relative;
   padding-top: 10px; }
@@ -70,10 +83,14 @@ body {
   font-family: 'Koruri', 'Helvetica', 'Arial', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
   font-size: 13px;
   line-height: 1.8;
-  padding-top: 10px;
-  padding-bottom: 10px;
   background-color: white;
-  padding: 30px; }
+}
+
+
+body {
+    padding-top: 60px;
+}
+
 
 body > *:first-child {
   margin-top: 0 !important; }
@@ -234,8 +251,10 @@ blockquote {
       margin-bottom: 0; } */
 
 img {
+  /*
   display: block;
   max-width: 700px;
+  */
   border-radius: 2px;
   margin: 0 auto;
 }
@@ -345,10 +364,9 @@ sup {
 * {
 	-webkit-print-color-adjust: exact;
 }
-@media screen and (min-width: 914px) {
+@media screen and (max-width: 979px) {
     body {
-        width: 854px;
-        margin:0 auto;
+        padding-top: 0;
     }
 }
 @media print {
