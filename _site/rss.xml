@@ -5,10 +5,104 @@
         <description>おさむ村 いろんなまとめ - </description>
         <link></link>
         <link></link>
-        <lastBuildDate>2014-03-01T02:07:03+09:00</lastBuildDate>
-        <pubDate>2014-03-01T02:07:03+09:00</pubDate>
+        <lastBuildDate>2014-03-01T22:20:07+09:00</lastBuildDate>
+        <pubDate>2014-03-01T22:20:07+09:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>LWC（チェスト保護プラグイン）の使い方</title>
+                <description>&lt;p&gt;本稿では、&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;LWC（チェスト保護プラグイン）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;について説明します。&lt;/p&gt;
+
+&lt;h2 id=&quot;&quot;&gt;かんたんなまとめ&lt;/h2&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;コマンド名&lt;/th&gt;&lt;th&gt;説明&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;text-align: center;&quot;&gt;/cprivate&lt;/td&gt;&lt;td style=&quot;text-align: center;&quot;&gt;入力後、クリックした&lt;strong&gt;対象をロックします&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style=&quot;text-align: center;&quot;&gt;/cremove&lt;/td&gt;&lt;td style=&quot;text-align: center;&quot;&gt;入力後、クリックした&lt;strong&gt;対象のロックを解除します&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&quot;lwc&quot;&gt;LWCとは？&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/s083027/9658742785/&quot;&gt;&lt;img src=&quot;https://v4s2.yimg.com/so/7360/9658742785_32397bfcae_c.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;主にチェストの保護を目的としたBukkitプラグイン&lt;/strong&gt;です。おさむ村にも導入されています。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;主に&lt;/strong&gt;と書いてあるとおり、チェストだけでなく&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;トラップチェスト&lt;/li&gt;
+
+&lt;li&gt;かまど&lt;/li&gt;
+
+&lt;li&gt;ドア&lt;/li&gt;
+
+&lt;li&gt;看板&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;もロックすることが出来ます。&lt;/p&gt;
+
+&lt;h2 id=&quot;_2&quot;&gt;使い方&lt;/h2&gt;
+
+&lt;h3 id=&quot;_3&quot;&gt;ロックをかける場合&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/s083027/12853251865/&quot;&gt;&lt;img src=&quot;https://v4s2.yimg.com/sk/3740/12853251865_b799cb0540_c.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; おさむ村の初期設定では、&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;チェスト（トラップチェスト含む）&lt;/li&gt;
+
+&lt;li&gt;かまど&lt;/li&gt;
+
+&lt;li&gt;看板&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;上記3つを設置すると、自動的にLWCが&lt;code&gt;設置した対象物&lt;/code&gt;をロックします。&lt;br /&gt;これによって、&lt;code&gt;設置した対象物&lt;/code&gt;は、&lt;code&gt;設置したプレイヤー&lt;/code&gt;以外は開けたり破壊することが出来なくなります。&lt;/p&gt;
+&lt;alert class=&#39;info&#39;&gt;当然ですが、OP（オペーレーター）は開けることができます。&lt;/alert&gt;
+&lt;p&gt;一度ロックを外したチェスト等やドアにロックをかける際は、チャット欄（&lt;code&gt;T&lt;/code&gt;キーを押したら出てきます）に以下のコマンドを入力し、ロックしたい対象を左クリックします。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;/cprivate&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&quot;_4&quot;&gt;ロックを外す場合&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/s083027/12853314913/&quot;&gt;&lt;img src=&quot;https://v4s2.yimg.com/so/7417/12853314913_2881ea5080_c.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;複数人と作業する際に、建材を入れておくために共有チェストを設置することがあります。&lt;br /&gt;他の人にも自分の設置したチェスト等を使って欲しい場合は、チャット欄（&lt;code&gt;T&lt;/code&gt;キーを押したら出てきます）に以下のコマンドを入力します。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;/cremove&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/s083027/12853316853/&quot;&gt;&lt;img src=&quot;https://v4s2.yimg.com/so/7395/12853316853_efbfa5cc5e_c.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;すると、&lt;code&gt;Punch your protection to remove the lock&lt;/code&gt;と出るので、ロックを解除したいチェストやかまどを左クリックでパンチします。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/s083027/12853250925/&quot;&gt;&lt;img src=&quot;https://v4s2.yimg.com/so/7307/12853250925_fa15312c58_c.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;ロックが解除されると&lt;code&gt;Removeed lock on the 解除した対象物 successfully&lt;/code&gt;と出ます。&lt;/p&gt;
+
+&lt;h2 id=&quot;_5&quot;&gt;注意点&lt;/h2&gt;
+
+&lt;h3 id=&quot;_6&quot;&gt;ホッパーを接続させる際の注意点&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/s083027/12853315663/&quot;&gt;&lt;img src=&quot;https://v4s2.yimg.com/sk/3737/12853315663_176d6c3731_c.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;ホッパーとチェストを接続する際、&lt;strong&gt;チェスト等がロックされている場合、ホッパーは接続先のチェスト等にアイテムを搬出することができません。&lt;/strong&gt; 接続されているチェスト等のロックを解除してください。&lt;/p&gt;
+
+&lt;h3 id=&quot;_7&quot;&gt;看板の注意点&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/s083027/12854129434/&quot;&gt;&lt;img src=&quot;https://v4s2.yimg.com/so/7335/12854129434_f759152c09_c.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;&lt;i&gt;この場合、看板がロックされているため、触れているレバーを操作することができません。&lt;/i&gt;&lt;/center&gt;
+&lt;p&gt;看板はそれ自体だけではなく、設置されているブロックや看板が触れているブロック等もロックされます。また、設置のしやすさの反面、設置したプレーヤーかOP以外は撤去することができません。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;自分が管理している区域以外に設置する際は、なるべく設置後&lt;code&gt;/cremove&lt;/code&gt;しましょう。&lt;/strong&gt;&lt;/p&gt;</description>
+                <link>/2014/03/01/LWC</link>
+                <guid>/2014/03/01/LWC</guid>
+                <pubDate>2014-03-01T00:00:00+09:00</pubDate>
+        </item>
 
         <item>
                 <title>サーバーバージョンアップについて</title>
