@@ -38,11 +38,13 @@
         <div class="container">
             <a class="brand" href="{{ HOME_PATH }}" style="color:white; padding: 0 20px;">{{ site.title }}</a>
                 <ul class="nav">
-                    <li><a href="/2014/02/09/新規向け概要/">初めての方へ</a></li>
+                    <li><a href="{% post_url 2014-02-09-新規向け概要 %}"><i class="icon-exclamation-sign icon-white"></i> 初めての方へ</a></li>
                     <li class="divider-vertical">
-                    <li><a href="http://2525osamu.ddo.jp:8123">動く地図</a></li>
+                    <li><a href="{% post_url 2014-02-11-ルール %}"><i class="icon-list-alt icon-white"></i> ルール</a></li>
                     <li class="divider-vertical">
-                    <li><a href="/archive.html">アーカイブ</a></li>
+                    <li><a href="http://2525osamu.ddo.jp:8123"><i class="icon-road icon-white"></i> 動く地図</a></li>
+                    <li class="divider-vertical">
+                    <li><a href="/archive.html"><i class="icon-folder-open icon-white"></i> アーカイブ</a></li>
                 </ul>
         </div>
     </div>
@@ -53,21 +55,20 @@
 </div>
 
 
-    <div class="container-narrow">
 
-      <div class="content">
-        {{ content }}
-      </div>
-      <hr>
-      <footer>
-        <center>
-            <img src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png">
-<p>このサイトは<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja">クリエイティブ・コモンズ 表示 - 継承 3.0 非移植 ライセンス</a>の下で提供されています。</p>
-        </center>
-      </footer>
 
-    </div>
+        <div class="container-narrow">
+            <div class="content">
+            {{ content }}
+            </div>
+        </div>
 
-    {% include JB/analytics %}
+        <div id="footer">
+            <div class="container">
+                <center>
+                    <img src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png"><br>このサイトは<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.ja">クリエイティブ・コモンズ 表示 - 継承 3.0 非移植 ライセンス</a>の下で提供されています。
+                </center>
+            </div>
+        </div>
   </body>
 </html>

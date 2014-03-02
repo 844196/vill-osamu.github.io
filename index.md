@@ -5,6 +5,9 @@ title:
 
 {% include JB/setup %}
 
+<div class="alert alert-info">
+<strong>お知らせ！</strong> 近日中におさむ村はMinecraft 1.7.nへバージョンアップされます。
+</div>
 
 <div class="hero-unit" style=" background: url(https://v4s2.yimg.com/sk/3765/12857883384_aa8e908756_o.png); background-position: left; ">
 <font color="white">
@@ -15,7 +18,7 @@ title:
 大したことは　してないけどね<br>
 </p>
 </font>
-<a class="btn btn-primary btn-large" href="/2014/02/09/新規向け概要/">さらに詳しく</a>
+<a class="btn btn-primary btn-large" href="{% post_url 2014-02-09-新規向け概要 %}">さらに詳しく</a>
 </div>
 
 
@@ -42,6 +45,8 @@ title:
                 <a class="btn btn-small" href="http://goo.gl/il2Hre">さらに詳しく »</a>
             </div>
     </div>
+
+<hr>
 
 <h2>ホットニュース</h2><p style="color: #999">最新の情報をあなたに</p>
 <ul class="posts">

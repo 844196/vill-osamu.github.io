@@ -197,8 +197,6 @@ li {
 ul, ol {
   padding-left: 30px; }
 
-ul :first-child, ol :first-child {
-  margin-top: 0; }
 
 dl {
   padding: 0; }
@@ -606,4 +604,19 @@ alert.caution:before {
     padding: 0;
 }
 
+#footer {
+    background-color: #f5f5f5;
+    position: static;
+    margin-left: -20px;
+    margin-right: -20px;
+}
 
+#footer center {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding: 0;
+}
+
+ul i {
+    margin-top: 3px;
+}
