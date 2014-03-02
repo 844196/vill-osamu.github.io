@@ -33,16 +33,15 @@ title:
             <div class="span4">
                 <img src="https://v4s2.yimg.com/so/7364/12872059035_231cb384b8_b.jpg">
                 <h2>方向音痴（笑）も安心。</h2>
-                <p>もし、おさむ村で道に迷っても問題ありません。動く地図は、あなたの今いる場所、向かっている方角、最寄りのランドマーク、友達がどこにいるかがひと目で分かります。</p>
+                <p>もし、おさむ村で道に迷っても問題ありません。動く地図なら、あなたの今いる場所、向かっている方角、最寄りのランドマーク、友達がどこにいるかがひと目で分かります。</p>
             </div>
             <div class="span4">
                 <img src="https://v4s2.yimg.com/sk/3758/12873843294_397808af04_b.jpg">
-                <h2>スペースが余りました。</h2>
-                <p>文月ちゃんはかわいいです！</p>
-                <a class="btn btn-primary btn-small" href="http://goo.gl/AaN3uW">さらに詳しく</a>
+                <h2>文月ちゃんかわいい！('ω')✌</h2>
+                <p>しゅっせきばんごうにじゅうきゅう、ふみづきだよ～！</p>
+                <a class="btn btn-small" href="http://goo.gl/il2Hre">さらに詳しく »</a>
             </div>
     </div>
-
 
 <h2>ホットニュース</h2><p style="color: #999">最新の情報をあなたに</p>
 <ul class="posts">
