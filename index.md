@@ -39,6 +39,7 @@ title:
                 <img src="https://v4s2.yimg.com/sk/3758/12873843294_397808af04_b.jpg">
                 <h2>スペースが余りました。</h2>
                 <p>文月ちゃんはかわいいです！</p>
+                <a class="btn btn-primary btn-small" href="http://goo.gl/AaN3uW">さらに詳しく</a>
             </div>
     </div>
 
