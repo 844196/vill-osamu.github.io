@@ -4,7 +4,7 @@
  <title>おさむ村 いろんなまとめ</title>
  <link href="/" rel="self"/>
  <link href=""/>
- <updated>2014-03-06T20:35:57+09:00</updated>
+ <updated>2014-03-06T23:44:27+09:00</updated>
  <id></id>
  <author>
    <name></name>
@@ -110,9 +110,9 @@
  
  <entry>
    <title>サーバーバージョンアップについて</title>
-   <link href="/2014/02/28/%E3%83%8F%E3%82%99%E3%83%BC%E3%82%B7%E3%82%99%E3%83%A7%E3%83%B3%E3%82%A2%E3%83%83%E3%83%95%E3%82%9A%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6"/>
+   <link href="/2014/02/28/to172"/>
    <updated>2014-02-28T00:00:00+09:00</updated>
-   <id>/2014/02/28/バージョンアップについて</id>
+   <id>/2014/02/28/to172</id>
    <content type="html">&lt;alert class=&#39;error&#39;&gt;この記事はサーバー管理者からの掲載許可を得ていません。&lt;/alert&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/s083027/12815247423/&quot;&gt;&lt;img src=&quot;https://farm3.staticflickr.com/2847/12815247423_eeeac4f60c_c.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -211,9 +211,9 @@
  
  <entry>
    <title>ルール</title>
-   <link href="/2014/02/11/%E3%83%AB%E3%83%BC%E3%83%AB"/>
+   <link href="/2014/02/11/rule"/>
    <updated>2014-02-11T00:00:00+09:00</updated>
-   <id>/2014/02/11/ルール</id>
+   <id>/2014/02/11/rule</id>
    <content type="html">&lt;alert class=&#39;caution&#39;&gt;この記事は、サーバー管理者からの承認待ちです。&lt;/alert&gt;
 &lt;p&gt;本稿では、&lt;/p&gt;
 
@@ -264,9 +264,9 @@
  
  <entry>
    <title>おさむ村 議会だより</title>
-   <link href="/2014/02/10/%E3%81%8A%E3%81%95%E3%82%80%E6%9D%91%E8%AD%B0%E4%BC%9A%E3%81%9F%E3%82%99%E3%82%88%E3%82%8A"/>
+   <link href="/2014/02/10/congress"/>
    <updated>2014-02-10T00:00:00+09:00</updated>
-   <id>/2014/02/10/おさむ村議会だより</id>
+   <id>/2014/02/10/congress</id>
    <content type="html">&lt;h2 id=&quot;&quot;&gt;概要&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/s083027/9370019663/&quot;&gt;&lt;img src=&quot;http://farm4.staticflickr.com/3735/9370019663_0dd81468e5_c.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -377,9 +377,9 @@
  
  <entry>
    <title>新規向け概要</title>
-   <link href="/2014/02/09/%E6%96%B0%E8%A6%8F%E5%90%91%E3%81%91%E6%A6%82%E8%A6%81"/>
+   <link href="/2014/02/09/guidance"/>
    <updated>2014-02-09T00:00:00+09:00</updated>
-   <id>/2014/02/09/新規向け概要</id>
+   <id>/2014/02/09/guidance</id>
    <content type="html">&lt;div class=&#39;alert alert-success&#39;&gt;&lt;b&gt;やったね！&lt;/b&gt; この記事は、サーバー管理者からの許可を得ています。&lt;/div&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/s083027/9823661783/&quot;&gt;&lt;img src=&quot;http://farm8.staticflickr.com/7362/9823661783_161f93c7c4_c.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;&lt;i&gt;おさむ村へようこそ！&lt;/i&gt;&lt;/center&gt;
@@ -418,9 +418,9 @@
  
  <entry>
    <title>高解像度Dynmapで見るおさむ村</title>
-   <link href="/2013/09/22/%E3%82%BF%E3%82%99%E3%82%A4%E3%83%8A%E3%83%9E%E3%83%83%E3%83%95%E3%82%9A"/>
+   <link href="/2013/09/22/dynmap"/>
    <updated>2013-09-22T00:00:00+09:00</updated>
-   <id>/2013/09/22/ダイナマップ</id>
+   <id>/2013/09/22/dynmap</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://farm8.staticflickr.com/7367/9870316174_6cd0fd2330_b.jpg&quot; title=&quot;osamumura&quot;&gt;&lt;img src=&quot;http://farm8.staticflickr.com/7367/9870316174_6cd0fd2330_c.jpg&quot; alt=&quot;osamumura&quot; title=&quot;osamumura&quot; /&gt;&lt;/a&gt;&lt;br /&gt;なんか芸術的(恍惚)&lt;/p&gt;
 &lt;!-- more --&gt;
 &lt;p&gt;放送終わって夜中の3時ぐらいに, ねじ込みでDynmapの高解像度を頼んでおきました.&lt;/p&gt;
@@ -459,9 +459,9 @@
  
  <entry>
    <title>Minecraft 1.6.Xから1.6.2へのダウングレード方法</title>
-   <link href="/2013/09/21/%E3%82%BF%E3%82%99%E3%82%A6%E3%83%B3%E3%82%AF%E3%82%99%E3%83%AC%E3%83%BC%E3%83%88%E3%82%99"/>
+   <link href="/2013/09/21/to162"/>
    <updated>2013-09-21T00:00:00+09:00</updated>
-   <id>/2013/09/21/ダウングレード</id>
+   <id>/2013/09/21/to162</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://farm4.staticflickr.com/3821/9849368373_2dea01b9e2_b.jpg&quot; title=&quot;16xto162&quot;&gt;&lt;img src=&quot;http://farm4.staticflickr.com/3821/9849368373_2dea01b9e2_c.jpg&quot; alt=&quot;16xto162&quot; title=&quot;16xto162&quot; /&gt;&lt;/a&gt;&lt;br /&gt;Mojangの怒涛のアップデートのお陰で, ついこの間まで&lt;code&gt;1.6.2&lt;/code&gt;が最新だったのに, 本稿執筆時点で&lt;code&gt;1.6.4&lt;/code&gt;までアップデートされました. しかしマルチサーバーはすぐには最新バージョンには対応されず, 「&lt;strong&gt;次のメジャーアップデートまで対応を見送る&lt;/strong&gt;」ところも多いのではないでしょうか? (筆者の遊んでるサーバーも当面は見送るそうです)&lt;/p&gt;
 
 &lt;p&gt;本稿はサーバー管理者からの要請を受け, &lt;strong&gt;&lt;code&gt;1.6.X&lt;/code&gt;から&lt;code&gt;1.6.2&lt;/code&gt;へダウングレードする方法を説明するものです.&lt;/strong&gt; 幸い, 前回のメジャーアップデートに伴うランチャーアップデートにより,ダウングレードが簡単に行えるようになりました.&lt;/p&gt;
