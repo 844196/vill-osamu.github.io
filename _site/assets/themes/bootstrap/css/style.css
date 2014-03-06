@@ -1,0 +1,296 @@
+/* Custom container */
+.container-narrow {
+  margin: 0 auto;
+  max-width: 700px; }
+
+.container-narrow > hr {
+  margin: 30px 0; }
+
+.navbar .nav {
+  float: right; }
+
+/* posts index */
+.post > h3.title {
+  position: relative;
+  padding-top: 10px; }
+
+.post > h3.title span.date {
+  position: absolute;
+  right: 0;
+  font-size: 0.9em; }
+
+.post > .more {
+  margin: 10px 0;
+  text-align: left; }
+
+/* post-full*/
+.post-full .date {
+  margin-bottom: 20px;
+  font-weight: bold; }
+
+/* tag_box */
+.tag_box {
+  list-style: none;
+  margin: 0;
+  overflow: hidden; }
+
+.tag_box li {
+  line-height: 28px; }
+
+.tag_box li i {
+  opacity: 0.9; }
+
+.tag_box.inline li {
+  float: left; }
+
+.tag_box a {
+  padding: 3px 6px;
+  margin: 2px;
+  background: #eee;
+  color: #555;
+  border-radius: 3px;
+  text-decoration: none;
+  border: 1px dashed #cccccc; }
+
+.tag_box a span {
+  vertical-align: super;
+  font-size: 0.8em; }
+
+.tag_box a:hover {
+  background-color: #e5e5e5; }
+
+.tag_box a.active {
+  background: #57A957;
+  border: 1px solid #4c964d;
+  color: #FFF; }
+
+body { 
+  padding-top: 50px;
+  font-family: 'Helvetica', 'Arial', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+  line-height: 1.8;
+  text-rendering: optimizelegibility;
+}
+
+
+
+
+
+
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+
+.post {
+  margin: 0 auto;
+  max-width: 700px;
+}
+
+.post p {
+  margin-bottom: 1.3em;
+  font-size: 14px;
+}
+
+.post table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  border-radius: 5px;
+}
+
+.post table th,
+.post table td {
+  border: 1px solid #ddd;
+  padding: 5px 10px;
+}
+
+.post table th {
+  background: #fafafa;
+}
+
+
+.post table {
+    width: 100%;
+}
+
+
+
+.page {
+  margin: 0 auto;
+  max-width: 900px;
+}
+
+/*
+.page-header {
+  padding-bottom: 0;
+  margin: 40px 0 20px;
+  border-bottom: 1px solid #eee;
+}
+*/
+
+
+.post h2{
+    margin:2em 0 0.3em 0;
+    padding:2px 8px;
+    border-width:0 0 0 5px;
+    border-color:#2e9af8;
+    border-bottom:1px solid #2e9af8;
+    border-style:solid;
+    line-height:140%;
+    font-size: 150%;
+}
+
+.post h3{
+    margin:1.5em 0 0.3em 0;
+    padding:2px 8px;
+    border-width:0 0 0 4px;
+    border-color:#2e9af8;
+    border-style:solid;
+    font-size:120%;
+    line-height:130%;
+}
+
+.post img {
+  border-radius: 1.5px;
+}
+
+.half-rule {
+  width: 100px;
+  margin: 40px auto;
+}
+
+/* marketing */
+
+.marketing p {
+  margin-right: 10px;
+  line-height: 1.8;
+  text-align: center;
+}
+
+.marketing-byline {
+  line-height: 24px;
+  font-weight: lighter;
+  color: #999;
+  text-align: center;
+  font-size: 18px;
+}
+
+.marketing h1, .marketing h2, .marketing h3 {
+  text-align: center;
+}
+
+@media screen and (max-width:992px) {
+  .marketing h1 {
+    font-size: 34px;
+  }
+
+  .marketing-byline {
+    font-size: 16px;
+  }
+
+  .marketing p {
+    font-size: 16px;
+  }
+}
+
+
+
+
+.jumbotron {
+  background: url(https://v4s2.yimg.com/sk/3765/12857883384_aa8e908756_o.png);
+  background-position: left center;
+}
+
+
+div#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer {
+    background-color: #f5f5f5;
+}
+
+.footer center {
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    padding: 0;
+}
+
+
+.post h1, .post h2, .post h3, .post h4, .post h5, .post h6 {
+  font-weight: bold;
+}
+
+/* alert */
+
+alert {
+    display: block;
+    border: 1px solid;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    padding: 8px 35px 8px 14px;
+
+    font-size:14px;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+alert.error {
+    background-color: #f2dede;
+    border-color: #eed3d7;
+    color: #b94a48;
+}
+
+alert.error:before {
+    font-weight: bold;
+    content: "警告！ "
+}
+
+alert.info {
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+    color: #3a87ad;
+}
+
+alert.info:before {
+    font-weight: bold;
+    content: "情報！ "
+}
+
+alert.check {
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+    color: #468847;
+}
+
+alert.check:before {
+    font-weight: bold;
+    content: "承認！ "
+}
+
+alert.caution {
+    background-color: #fcf8e3;
+    border-color: #fbeed5;
+    color: #c09853;
+}
+
+alert.caution:before {
+    font-weight: bold;
+    content: "注意！ ";
+}
+
+@media screen and (min-width: 992px) {
+  .col-md-4 h2 {
+    font-size: 26px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .col-md-4 h2 {
+    font-size: 30px;
+  }
+}

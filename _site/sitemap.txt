@@ -2,6 +2,7 @@
 /archive.html
 /atom.xml
 /categories.html
+/getting-started.html
 /index.html
 /pages.html
 /rss.xml
