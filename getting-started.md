@@ -21,7 +21,7 @@ title: さぁ始めよう
   <div class="row">
 
   <div class="page-header">
-    <h1>入村するには<small>特別な審査はありません</small></h1>
+    <h1>入村するには <small>特別な審査はありません</small></h1>
   </div>
     <div class="alert alert-danger"><b>ごめんね！</b> 現在、新規入村者は受けつけていません。</div>
 
