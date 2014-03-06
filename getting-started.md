@@ -21,9 +21,9 @@ title: さぁ始めよう
   <div class="row">
 
   <div class="page-header">
-    <h1>入村するには</h1>
+    <h1>入村するには<small>特別な審査はありません</small></h1>
   </div>
-    <div class="alert alert-danger"><b>ごめんね！</b> 現在、新規入村者は受けてつけていません。</div>
+    <div class="alert alert-danger"><b>ごめんね！</b> 現在、新規入村者は受けつけていません。</div>
 
   </div>
 </div>
@@ -33,7 +33,7 @@ title: さぁ始めよう
   <div class="row">
 
   <div class="page-header">
-    <h1>入村したら <small>守るべきルールがあります。</small></h1>
+    <h1>入村したら <small>守るべきルールがあります</small></h1>
   </div>
 
 
@@ -61,7 +61,7 @@ title: さぁ始めよう
   <div class="row">
 
       <div class="page-header">
-        <h1>公共施設 <small>あなたは裸一貫からスタートするわけではありません。</small></h1>
+        <h1>公共施設 <small>あなたは裸一貫からスタートするわけではありません</small></h1>
       </div>
       <p class="lead">おさむ村には便利な公共施設がいくつかあります！</p>
 
