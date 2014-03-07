@@ -71,6 +71,7 @@ title: さぁ始めよう
             <img src="http://farm8.staticflickr.com/7437/12964062485_951de41066_b.jpg">
             <h3>ひだまり荘</h3>
             <p>最初の内はここに住むと楽だと思います。</p>
+            <a class="btn btn-sm btn-primary" href="/pb-hidamari.html">詳しくはこちら</a>
           </div>
         </div>
 
@@ -79,6 +80,7 @@ title: さぁ始めよう
             <img src="http://farm3.staticflickr.com/2784/12964207593_ac84d78f78_b.jpg">
             <h3>農猫協同組合</h3>
             <p>なんか色々あります。</p>
+            <a class="btn btn-sm btn-primary" href="#">詳しくはこちら</a>
           </div>
         </div>
 
@@ -87,6 +89,7 @@ title: さぁ始めよう
             <img src="http://farm3.staticflickr.com/2528/12964207853_7b1195bdba_b.jpg">
             <h3>村営地下鉄</h3>
             <p>色んなとこに行けます。</p>
+            <a class="btn btn-sm btn-primary" href="#">詳しくはこちら</a>
           </div>
         </div>
 
@@ -95,6 +98,7 @@ title: さぁ始めよう
             <img src="http://farm8.staticflickr.com/7408/12964207023_2c4395ffa3_b.jpg">
             <h3>村営牧場</h3>
             <p>牛とか豚、あと羊がいます。</p>
+            <a class="btn btn-sm btn-primary" href="#">詳しくはこちら</a>
           </div>
         </div>
 
@@ -103,6 +107,7 @@ title: さぁ始めよう
             <img src="http://farm8.staticflickr.com/7322/12964208313_d3251b44a0_b.jpg">
             <h3>モブファーム</h3>
             <p>たくさんあります。</p>
+            <a class="btn btn-sm btn-primary" href="#">詳しくはこちら</a>
           </div>
         </div>
 
@@ -111,6 +116,7 @@ title: さぁ始めよう
             <img src="http://farm3.staticflickr.com/2280/12964208203_d94cd6a50d_b.jpg">
             <h3>植林場</h3>
             <p>森を枯らすより、植林したほうが文明的ですよね？</p>
+            <a class="btn btn-sm btn-primary" href="#">詳しくはこちら</a>
           </div>
         </div>
 

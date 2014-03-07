@@ -6,6 +6,7 @@
 /getting-started.html
 /index.html
 /pages.html
+/pb-hidamari.html
 /rss.xml
 /sitemap.txt
 /tags.html
