@@ -66,7 +66,9 @@
 
 body { 
   padding-top: 50px;
+  /*
   font-family: 'Helvetica', 'Arial', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+  */
   line-height: 1.8;
   text-rendering: optimizelegibility;
 }
