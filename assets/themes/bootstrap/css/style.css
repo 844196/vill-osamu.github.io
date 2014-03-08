@@ -203,6 +203,7 @@ img {
 .jumbotron {
   background: url(https://v4s2.yimg.com/sk/3765/12857883384_aa8e908756_o.png);
   background-position: left center;
+  line-height: 1.4;
 }
 
 
