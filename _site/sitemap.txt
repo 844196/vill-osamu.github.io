@@ -9,6 +9,7 @@
 /pb-hidamari.html
 /pb-metro.html
 /pb-mobfarm.html
+/pb-nouneko.html
 /rss.xml
 /sitemap.txt
 /tags.html
