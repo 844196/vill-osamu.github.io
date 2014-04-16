@@ -4,7 +4,7 @@
  <title>おさむ村 いろんなまとめ</title>
  <link href="/" rel="self"/>
  <link href=""/>
- <updated>2014-03-09T16:54:15+09:00</updated>
+ <updated>2014-04-13T18:23:36+09:00</updated>
  <id></id>
  <author>
    <name></name>
@@ -69,7 +69,9 @@
 &lt;alert class=&#39;info&#39;&gt;当然ですが、OP（オペーレーター）は開けることができます。&lt;/alert&gt;
 &lt;p&gt;一度ロックを外したチェスト等やドアにロックをかける際は、チャット欄（&lt;code&gt;T&lt;/code&gt;キーを押したら出てきます）に以下のコマンドを入力し、ロックしたい対象を左クリックします。&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;/cprivate&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;
+/cprivate
+&lt;/code&gt;&lt;/pre&gt;
 
 &lt;h3 id=&quot;_4&quot;&gt;ロックを外す場合&lt;/h3&gt;
 
@@ -77,7 +79,9 @@
 
 &lt;p&gt;複数人と作業する際に、建材を入れておくために共有チェストを設置することがあります。&lt;br /&gt;他の人にも自分の設置したチェスト等を使って欲しい場合は、チャット欄（&lt;code&gt;T&lt;/code&gt;キーを押したら出てきます）に以下のコマンドを入力します。&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;/cremove&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;
+/cremove
+&lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -221,7 +225,7 @@
 &lt;li&gt;おさむ村でのルール&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;について説明します。ルールはブロマガの記事を意訳したものです。&lt;br /&gt;原文はブロマガをご確認ください。&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;について説明します。ルールはブロマガの記事を意訳したものです。&lt;br /&gt;原文はブロマガをご確認ください。&lt;/p&gt;
 &lt;div class=&#39;intro-article-wrapper&#39; style=&#39;width: 100%; overflow: auto;&#39;&gt;&lt;a class=&#39;intro-article-img&#39; href=&#39;http://ch.nicovideo.jp/osamu/blomaga/ar241922&#39; rel=&#39;nofollow&#39; style=&#39;float:left;&#39; target=&#39;_blank&#39;&gt;&lt;img align=&#39;left&#39; alt=&#39;僕のMinecraftサーバ　～おさむ村～:オサムノート - ブロマガ&#39; height=&#39;130&#39; src=&#39;http://capture.heartrails.com/150x130/shadow?http://ch.nicovideo.jp/osamu/blomaga/ar241922&#39; width=&#39;150&#39; /&gt;&lt;/a&gt;&lt;a class=&#39;intro-article-title&#39; href=&#39;http://ch.nicovideo.jp/osamu/blomaga/ar241922&#39; rel=&#39;nofollow&#39; style=&#39;font-size:110%;&#39; target=&#39;_blank&#39;&gt;僕のMinecraftサーバ　～おさむ村～:オサムノート - ブロマガ&lt;/a&gt; &lt;img src=&#39;http://b.hatena.ne.jp/entry/image/http://ch.nicovideo.jp/osamu/blomaga/ar241922&#39; style=&#39;opacity:0.8;&#39; /&gt;&lt;span style=&#39;clear: both;&#39; /&gt;&lt;/div&gt;
 &lt;h2 id=&quot;1_&quot;&gt;1. じぶんの家を建てましょう&lt;/h2&gt;
 
@@ -271,7 +275,7 @@
 
 &lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/s083027/9370019663/&quot;&gt;&lt;img src=&quot;http://farm4.staticflickr.com/3735/9370019663_0dd81468e5_c.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;center&gt;&lt;i&gt;開会の挨拶を行う村長&lt;/i&gt;&lt;/center&gt;
-&lt;p&gt; 平成26年2月10日、おさむ村中央区農猫協同組合 本所において第2回おさむ村議会臨時会が開かれました。&lt;/p&gt;
+&lt;p&gt;平成26年2月10日、おさむ村中央区農猫協同組合 本所において第2回おさむ村議会臨時会が開かれました。&lt;/p&gt;
 
 &lt;p&gt;開会の挨拶において盛本修村長は「今月中にかかる諸問題を解決し、基盤システムの1.7.2への移行を目指す。村民の方々は行政に発破をかけていただきたい」と挨拶し、基盤システムのバージョンアップへ意欲を見せました。&lt;/p&gt;
 
@@ -339,11 +343,15 @@
 
 &lt;h3 id=&quot;_5&quot;&gt;モブヘッドとか手に入らない物の入手方法&lt;/h3&gt;
 
-&lt;pre&gt;&lt;code&gt;[1枠目 20:04] ***: とりあえずログインキャンペーンをしよう(提案
+&lt;pre&gt;&lt;code&gt;
+[1枠目 20:04] ***: とりあえずログインキャンペーンをしよう(提案
 [1枠目 20:09] ***: 一週間ログインし続けたらダイヤ
-[1枠目 20:47] はちよん: モブヘッドのメタタグ書き換えたやつとかほしいな小さいチェストとか&lt;/code&gt;&lt;/pre&gt;
+[1枠目 20:47] はちよん: モブヘッドのメタタグ書き換えたやつとかほしいな小さいチェストとか
+&lt;/code&gt;&lt;/pre&gt;
 
-&lt;pre&gt;&lt;code&gt;[2枠目 05:30] ***: 手に入らないものは博打でいいんじゃない？&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;
+[2枠目 05:30] ***: 手に入らないものは博打でいいんじゃない？
+&lt;/code&gt;&lt;/pre&gt;
 
 &lt;h3 id=&quot;_6&quot;&gt;南国の島&lt;/h3&gt;
 
@@ -351,12 +359,16 @@
 &lt;li&gt;四季を残しておく&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;pre&gt;&lt;code&gt;[1枠目 16:44] ***: 修、リゾートほしい
-[1枠目 17:01] ***: 南の島的な&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;
+[1枠目 16:44] ***: 修、リゾートほしい
+[1枠目 17:01] ***: 南の島的な
+&lt;/code&gt;&lt;/pre&gt;
 
-&lt;pre&gt;&lt;code&gt;[1枠目 19:27] ***: じゃあさ、四季の場所造ろう
+&lt;pre&gt;&lt;code&gt;
+[1枠目 19:27] ***: じゃあさ、四季の場所造ろう
 [1枠目 19:59] ***: ずっとそこは夏とか冬とか
-[1枠目 20:25] ***: その四季の建築を残す感じの場所&lt;/code&gt;&lt;/pre&gt;
+[1枠目 20:25] ***: その四季の建築を残す感じの場所
+&lt;/code&gt;&lt;/pre&gt;
 
 &lt;h3 id=&quot;_7&quot;&gt;イベント会場、集会場&lt;/h3&gt;
 
@@ -364,15 +376,21 @@
 &lt;li&gt;新人？&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;pre&gt;&lt;code&gt;[1枠目 24:47] ***: イベント会場を作るとか
-[1枠目 25:09] ***: ビッグサイト作って（小声）&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;
+[1枠目 24:47] ***: イベント会場を作るとか
+[1枠目 25:09] ***: ビッグサイト作って（小声）
+&lt;/code&gt;&lt;/pre&gt;
 
-&lt;pre&gt;&lt;code&gt;[1枠目 26:28] ***: けど、集会所とかはほしいかもね
-[1枠目 26:31] ***: 新人さんには分かりやすいし&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;
+[1枠目 26:28] ***: けど、集会所とかはほしいかもね
+[1枠目 26:31] ***: 新人さんには分かりやすいし
+&lt;/code&gt;&lt;/pre&gt;
 
 &lt;h3 id=&quot;_8&quot;&gt;コンビニ、ユニクロ、公園&lt;/h3&gt;
 
-&lt;pre&gt;&lt;code&gt;[2枠目 07:04] ***: コンビニ、ユニクロ、公園&lt;/code&gt;&lt;/pre&gt;</content>
+&lt;pre&gt;&lt;code&gt;
+[2枠目 07:04] ***: コンビニ、ユニクロ、公園
+&lt;/code&gt;&lt;/pre&gt;</content>
  </entry>
  
  <entry>
@@ -425,7 +443,8 @@
 &lt;!-- more --&gt;
 &lt;p&gt;放送終わって夜中の3時ぐらいに, ねじ込みでDynmapの高解像度を頼んでおきました.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;[2013/09/22 3:12:02] はちよん: もうサーバーアップデートしちゃった?
+&lt;pre&gt;&lt;code&gt;
+[2013/09/22 3:12:02] はちよん: もうサーバーアップデートしちゃった?
 [2013/09/22 3:12:12] Osamu Morimoto: まだしてません
 [2013/09/22 3:12:29] はちよん: 言うの忘れてた
 [2013/09/22 3:12:48] はちよん: お前ちゃん鯖に導入されてる高解像度版ダイナマップを入れてほしいって言うの忘れてた
@@ -434,7 +453,8 @@
 [2013/09/22 3:13:56] はちよん: 詳しいことわかんないけど, 設定ファイルを書き換えるだけでいいみたい
 [2013/09/22 3:14:16] Osamu Morimoto: 了解
 [2013/09/22 3:14:57] はちよん: んじゃおやすー
-[2013/09/22 3:15:47] Osamu Morimoto: はい　おやすみ&lt;/code&gt;&lt;/pre&gt;
+[2013/09/22 3:15:47] Osamu Morimoto: はい　おやすみ
+&lt;/code&gt;&lt;/pre&gt;
 
 &lt;h2 id=&quot;&quot;&gt;変わったところ&lt;/h2&gt;
 
