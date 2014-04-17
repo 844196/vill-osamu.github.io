@@ -5,10 +5,38 @@
         <description>おさむ村 いろんなまとめ - </description>
         <link></link>
         <link></link>
-        <lastBuildDate>2014-04-17T23:43:17+09:00</lastBuildDate>
-        <pubDate>2014-04-17T23:43:17+09:00</pubDate>
+        <lastBuildDate>2014-04-18T00:10:04+09:00</lastBuildDate>
+        <pubDate>2014-04-18T00:10:04+09:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>削除範囲が決定しました</title>
+                <description>&lt;p&gt;こんばんは&lt;br /&gt;サイト管理担当のはちよん（&lt;a href=&quot;http://www.twitter.com/84____&quot;&gt;@84____&lt;/a&gt;）です。&lt;/p&gt;
+
+&lt;p&gt;Minecraft バージョン&lt;code&gt;1.7.N&lt;/code&gt;への移行に際して行われる&lt;strong&gt;チャンク消去に関して、対象範囲が決定&lt;/strong&gt;されましたのでご報告させていただきます。&lt;/p&gt;
+
+&lt;h2 id=&quot;&quot;&gt;対象範囲&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/s083027/13912039144&quot;&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7303/13912039144_42b521b987_c.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#39;caption&#39;&gt;クリックすると拡大します&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;色のついていない範囲&lt;/strong&gt;は、そのまま新バージョンへ引き継がれます。&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;&lt;span style=&#39;color:red;&#39;&gt;赤色&lt;/span&gt;の範囲&lt;/strong&gt;は&lt;strong&gt;削除&lt;/strong&gt;され、新バージョンの地形生成アルゴリズムに従って再生成されます。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;_2&quot;&gt;注意事項&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;削除対象範囲は機械的に削除されます。&lt;strong&gt;荷物を置いている方は速やかに移動させて下さい。&lt;/strong&gt;&lt;/li&gt;
+
+&lt;li&gt;範囲選考には万全を期していますが、&lt;strong&gt;もし削除対象範囲に建築中の建物がある方はサーバー管理者に連絡してください。&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+                <link>/2014/04/18/20140417235005</link>
+                <guid>/2014/04/18/20140417235005</guid>
+                <pubDate>2014-04-18T08:50:05+09:00</pubDate>
+        </item>
 
         <item>
                 <title>LWC（チェスト保護プラグイン）の使い方</title>

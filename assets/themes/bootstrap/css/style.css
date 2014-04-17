@@ -297,3 +297,11 @@ alert.caution:before {
     font-size: 30px;
   }
 }
+
+
+.caption {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  text-align: center;
+  font-style: italic;
+}
